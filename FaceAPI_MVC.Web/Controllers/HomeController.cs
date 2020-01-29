@@ -12,6 +12,9 @@ namespace FaceAPI_MVC.Web.Controllers
         public ActionResult Index()
         {
             return View();
+            //test
+
+            //git 
         }
     }
 }
